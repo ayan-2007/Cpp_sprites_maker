@@ -1,5 +1,7 @@
 # Cpp_sprites_maker
 
+A C++ terminal-based sprite renderer that recreates retro game characters using 2D arrays and ANSI escape codes.
+
 The struggle of not having enough sprites and manually editing every single pixel of an enemy in an OOP project got me thinking.
 
 I have Gemini. Developers in the 90s and 2000s didn't.
@@ -12,7 +14,7 @@ That sent me down a rabbit hole.
 
 I started experimenting with 2D arrays and ANSI escape codes in C++ with AI assistance, the same fundamental concept those developers used, to render colored pixel blocks directly in the terminal.
 
-Here, I have Sonic the Hedgehog staring back at me from a command prompt.
+The result: Sonic the Hedgehog rendered in a command prompt.
 
 Not perfect. But watching a recognizable character appear on screen from nothing but an integer array and a few `cout` statements hit differently than I expected.
 
@@ -21,5 +23,3 @@ Those developers had no AI assistants, no high-res reference tools, no instant i
 Modern tools give us speed. But the fundamentals those pioneers worked within are still worth understanding.
 
 Sometimes the best way to appreciate how far we have come is to try doing it the old way.
-
-Tags: GameDev, CPlusPlus, RetroTech, Programming, PixelArt
