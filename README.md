@@ -12,7 +12,7 @@ That sent me down a rabbit hole.
 
 I started experimenting with 2D arrays and ANSI escape codes in C++ with AI assistance, the same fundamental concept those developers used, to render colored pixel blocks directly in the terminal.
 
-Here I have Sonic the Hedgehog staring back at me from a command prompt.
+Here, I have Sonic the Hedgehog staring back at me from a command prompt.
 
 Not perfect. But watching a recognizable character appear on screen from nothing but an integer array and a few `cout` statements hit differently than I expected.
 
