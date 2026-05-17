@@ -4,11 +4,11 @@ A C++ terminal-based sprite renderer that recreates retro game characters using 
 
 The struggle of not having enough sprites and manually editing every single pixel of an enemy sprite in an OOP project got me thinking.
 
-I have Gemini. Developers in the 90s and 2000s didn't.
+I have modern AI tools. Developers in the 90s and 2000s didn't.
 
 So how did they actually make those iconic game sprites back then?
 
-After some digging, I found the answer: it was all hand-crafted pixel arrays. Every character, every enemy, every animation frame designed cell by cell, often with nothing but a grid and a color palette.
+After some digging, I found the answer: it was all hand-crafted pixel arrays. Every character, every enemy, every animation frame designed cell-by-cell, often with nothing but a grid and a color palette.
 
 That sent me down a rabbit hole.
 
