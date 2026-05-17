@@ -22,4 +22,4 @@ Modern tools give us speed. But the fundamentals those pioneers worked within ar
 
 Sometimes the best way to appreciate how far we have come is to try doing it the old way.
 
-\#GameDev \#CPlusPlus \#RetroTech \#Programming \#PixelArt
+#GameDev #CPlusPlus #RetroTech #Programming #PixelArt
