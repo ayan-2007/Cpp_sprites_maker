@@ -2,7 +2,7 @@
 
 A C++ terminal-based sprite renderer that recreates retro game characters using 2D arrays and ANSI escape codes.
 
-The struggle of not having enough sprites and manually editing every single pixel of an enemy in an OOP project got me thinking.
+The struggle of not having enough sprites and manually editing every single pixel of an enemy sprite in an OOP project got me thinking.
 
 I have Gemini. Developers in the 90s and 2000s didn't.
 
@@ -12,7 +12,7 @@ After some digging, I found the answer: it was all hand-crafted pixel arrays. Ev
 
 That sent me down a rabbit hole.
 
-I started experimenting with 2D arrays and ANSI escape codes in C++ with AI assistance, the same fundamental concept those developers used, to render colored pixel blocks directly in the terminal.
+I started experimenting with 2D arrays and ANSI escape codes in C++—the same fundamental concepts those developers used—to render colored pixel blocks directly in the terminal, with AI assistance.
 
 The result: Sonic the Hedgehog rendered in a command prompt.
 
